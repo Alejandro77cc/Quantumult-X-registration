@@ -1,3 +1,7 @@
+{
+    "name": "QX Scripts All",
+    "description": "QX Task Gallery by Alejandro",
+    "task": [
         "17 7 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/task/master/jd.png, enabled=false",
         "18 7 * * * https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_syj.js, tag=赚京豆 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_syj.png",
         "20 7 * * * https://raw.githubusercontent.com/ChuheGit/1/main/Script/jd_scripts/jd_bean_home.js, tag=领京豆额外奖励 , img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jd_bean_home.png",
@@ -24,3 +28,5 @@
         "30 11 */7 * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/epic.js, tag=Epic周免, img-url=https://raw.githubusercontent.com/Orz-3/task/master/epic.png, enabled=false",
         "0 15 * * * https://raw.githubusercontent.com/iepngs/Script/master/lxhealth/manual.js, tag=步数上传, img-url=https://raw.githubusercontent.com/Orz-3/task/master/lxhealth.png, enabled=false",
         "15 6 * * * https://gitee.com/passerby-b/javascript/raw/master/unipay.js, tag=云闪付, img-url=https://raw.githubusercontent.com/Orz-3/task/master/unipay.png, enabled=false",
+         ]
+}
